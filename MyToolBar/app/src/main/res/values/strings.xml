@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyToolBar</string>
+    <string name="show_fragment_detail">SHOW ME DETAILS !</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
